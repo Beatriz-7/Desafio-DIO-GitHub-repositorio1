@@ -1,0 +1,4 @@
+Link download GIT 
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+O Git Bash é um terminal para otimizar o uso do Git.
