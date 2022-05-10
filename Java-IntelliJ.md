@@ -1,4 +1,4 @@
-#IntelliJ
+# IntelliJ
 
 Alt+Insert = criar novo pack
 
@@ -30,7 +30,7 @@ F7 = step into
 Ctrl+F4 = fechar abas
 Ctrl+N = achar classes
 
-##Plugins
+## Plugins
 
 - Rainbow Brackets = deixam as chaves coloridas
 - Nyan progress bar = mostra a barra de progresso colorida
