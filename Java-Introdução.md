@@ -1,4 +1,4 @@
-#História Java
+# História Java
 
 - Linguagem de programação orientada a objetos
 - Desenvolvida na década de 90, na empresa Sun Microsystems
@@ -20,7 +20,7 @@ programação
 - A linguagem java é compilada para um bytecode, que é interpretado pela
 JVM  
 
- #Plataforma X Linguagem
+ # Plataforma X Linguagem
  
 - A linguagem de programação Java é a convencional na plataforma Java, mas
 não a única
@@ -37,7 +37,7 @@ algumas classes comuns entre as plataformas
 móveis e embarcados (sistema que roda em um dispositivo possuindo uma 
 função própria.)
 
- #Fases da Execução Java
+ # Fases da Execução Java
 
 - Escrever código-fonte (arquivo com extensão .java)
 - Utilizar JDK para compilar código-fonte e gerar arquivo bytecode (.class)
@@ -53,7 +53,7 @@ Java para o JDK compilar o seu código para a JVM executar o seu programa
 JVM = máquina virtual do Java responsável por executar o bytecode (.class)
 *executa o programa
 
- #Versões Java
+ # Versões Java
 
 - OpenJDK = Java totalmente open source com uma GNU General Public License
 - JDK Oracle = requer licença comercial sob o Contrato de Licença de Código
@@ -61,7 +61,7 @@ Binário Oracle
 - Os lançamentos das versões OpenJDK LTS(suporte de longo prazo) acontecem
 pelo menos a cada quatro anos
 
- #IDE (Ambiente de desenvolvimento integrado)
+ # IDE (Ambiente de desenvolvimento integrado)
 
 - Software que combina ferramentas comuns de desenvolvimento em uma única
 interface gráfica do usuário (GUI), facilitando o desenvolvimento de 
