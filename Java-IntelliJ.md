@@ -30,9 +30,10 @@ F7 = step into
 Ctrl+F4 = fechar abas
 Ctrl+N = achar classes
 
-##Olugins
-Rainbow Brackets = deixam as chaves coloridas
-nyan progress bar = mostra a barra de progresso colorida
-gittoll = informações do commit (hora, quem fez)
-key promoter = quando se esquece algum atalho, ele vai mostrando qual 
+##Plugins
+
+- Rainbow Brackets = deixam as chaves coloridas
+- Nyan progress bar = mostra a barra de progresso colorida
+- Gittoll = informações do commit (hora, quem fez)
+- Key promoter = quando se esquece algum atalho, ele vai mostrando qual 
 utilizar 
