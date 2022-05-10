@@ -15,9 +15,13 @@ Ctrl + shift + B = break point
 programador dê os comandos para que continue a rodagem.
 
 resume (F8) = concluir o programa sem fazer o passo a passo
-encerrar o programa (Ctrl+F2)
+
+Ctrl+F2 = encerrar o programa 
+
 Step into (F5) = entrar no metódo de funções que colocou o break point
+
 Step over (F6) = pular a execução, indo linha por linha 
+
 Step return (F7) = retornar ação  
 
 
