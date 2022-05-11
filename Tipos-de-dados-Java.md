@@ -21,9 +21,9 @@ heterogêneo
 - numeral = armazenar números (reais)
   * byte                                                 0
   * short                                                0
-  * int 32 bytes                  Valor default          0
-  * long 64 bytes                       =                0L
-  * float 32 bytes (f)            valor inicial          0.0f
+  * int 32 bytes                            0
+  * long 64 bytes                                      0L
+  * float 32 bytes (f)                     0.0f
   * double 64 bytes                                      0.0d
 - lógico = verdadeira/falsa 
   * boolean (true/false)                                 false 
@@ -31,6 +31,7 @@ heterogêneo
 
 *quanto maior a capacidade de armazenamento, maior a quantidade de 
 bytes
+*valor default = valor inicial
 
 ### Boas práticas
 
