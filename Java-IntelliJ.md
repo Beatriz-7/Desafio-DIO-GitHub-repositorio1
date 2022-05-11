@@ -37,3 +37,7 @@ Ctrl+N = achar classes
 - Gittoll = informações do commit (hora, quem fez)
 - Key promoter = quando se esquece algum atalho, ele vai mostrando qual 
 utilizar 
+
+### Links
+
+Atalhos da IDE (http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
