@@ -31,6 +31,7 @@ heterogêneo
 
 *quanto maior a capacidade de armazenamento, maior a quantidade de 
 bytes
+
 *valor default = valor inicial
 
 ### Boas práticas
