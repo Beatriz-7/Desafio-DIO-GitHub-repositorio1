@@ -26,7 +26,11 @@ Step return (F7) = retornar ação
 
 
 Ctrl+shift+T = mostra a classe
+
 Ctrl+W = fecha a aba
+
 Ctrl+shift+W = fecha todas as abas de uma vez
+
 Ctrl+shift+C = comenta o bloco
+
 Ctrl+D = deletar linha
